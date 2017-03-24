@@ -1,0 +1,2 @@
+hai,the,cat,mat,sun,rise,hello,zoom,mtech
+computer,apple,banana
